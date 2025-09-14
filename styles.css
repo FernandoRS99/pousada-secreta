@@ -67,6 +67,8 @@ body {
 .nav a:hover,
 .nav a.active {
     color: #38b2ac;
+    background-color: rgba(56, 178, 172, 0.1);
+
 }
 
 .nav a.active::after {
